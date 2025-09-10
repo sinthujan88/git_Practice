@@ -1,4 +1,4 @@
-var a = 200;
+var a = 20;
 
 var b = 2;
 
