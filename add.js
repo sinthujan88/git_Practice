@@ -1,5 +1,5 @@
 var a = 20;
 
-var b = 2;
+var b = 20;
 
 console.log("subtraction = " + a - b);
